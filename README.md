@@ -49,7 +49,11 @@ Applying some design patterns in E-commerce desktop application using java.
 
   - Add feedback to items
 
-| UML Diagram | Database |
-| ----------- | -------- |
-| ![]()       | ![]()    |
+| UML Diagram |
+| ----------- |
+| ![](https://raw.githubusercontent.com/arwaaayman/E-Commerce-Desktop/main/UML.png)  |
+
+ | Database |
+ | -------- |
+ | ![](https://github.com/arwaaayman/E-Commerce-Desktop/blob/main/database%20tables.png?raw=true) |
 
